@@ -1,4 +1,4 @@
-# 🪷 Kamal — AI Skin & Hair Expert
+# 🪷 Kamal — AI Skin Expert
 
 A multi-task computer vision + LLM pipeline that analyzes facial skin from a photo and generates a personalized, guardrailed skincare routine.
 
